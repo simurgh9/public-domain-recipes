@@ -5,7 +5,7 @@ tags: ['pasta', 'italian']
 author: "zyansheep"
 ---
 
-![baked mostaccioli in bowl](/pix/baked-mostaccioli-00.webp "Baked Mostaccioli in Bowl")
+![baked mostaccioli in bowl](/pix/baked-mostaccioli.webp "Baked Mostaccioli in Bowl")
 
 Pasta baked in dish with spicy sauce
 
@@ -26,5 +26,3 @@ Pasta baked in dish with spicy sauce
 2. Put pasta and sauce in baking dish(es) and mix well.
 3. Cover pasta and sauce generously with grated cheese until you can't see the pasta.
 4. Bake at 350°F / 175°C for 20 minutes, or 375°F / 190°C for 15 minutes on convection bake.
-
-![baked mostaccioli on stove](/pix/baked-mostaccioli-01.webp "Baked Mostaccioli right out of the Oven")
