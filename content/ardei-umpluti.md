@@ -5,7 +5,7 @@ date: 2022-07-11
 author: miraunpajaro
 ---
 
-![Ardei umpluti](/pix/ardei_umpluti.webp)
+![Ardei umpluti](/pix/ardei-umpluti.webp)
 
 Farcies peppers with rice.
 

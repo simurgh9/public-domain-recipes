@@ -24,9 +24,9 @@ This is a simple spiced cantaloupe recipe.
 
 ## Directions
 
-1. Pare the cantaloupe, remove seeds and cut into strips, 1 × 2 inch or squares. 
-2. Dissolve the alum in the water and bring to a boil. 
-3. Add the cantaloupe and cook for 15 minutes. 
-4. Drain well. 
-5. Combine vinegar, sugar and spices. Add the cantaloupe and simmer slowly until fruit is transparent (about 45 minutes). 
+1. Pare the cantaloupe, remove seeds and cut into strips, 1x2 inch or squares.
+2. Dissolve the alum in the water and bring to a boil.
+3. Add the cantaloupe and cook for 15 minutes.
+4. Drain well.
+5. Combine vinegar, sugar and spices. Add the cantaloupe and simmer slowly until fruit is transparent (about 45 minutes).
 6. Place in hot sterilized jars and seal.

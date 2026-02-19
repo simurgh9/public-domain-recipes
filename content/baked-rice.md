@@ -7,13 +7,13 @@ author: "daviduhden"
 
 ![Valencian Baked Rice](/pix/baked-rice.webp)
 
-**Valencian Baked Rice (Arroz al Horno)** is a traditional dish from the Valencian Community, known for being cooked in a clay casserole and baked in the oven. This comforting and flavorful meal combines rice, meats, chickpeas, and vegetables.  
+**Valencian Baked Rice (Arroz al Horno)** is a traditional dish from the Valencian Community, known for being cooked in a clay casserole and baked in the oven. This comforting and flavorful meal combines rice, meats, chickpeas, and vegetables.
 
-- ⏲️ Prep time: 20 min  
-- 🍳 Cook time: 60 min  
-- 🍽️ Servings: 4  
+- ⏲️ Prep time: 20 min
+- 🍳 Cook time: 60 min
+- 🍽️ Servings: 4
 
-## Ingredients  
+## Ingredients
 
 - 400 g of bomba rice
 - 150 g of cooked chickpeas
@@ -30,7 +30,7 @@ author: "daviduhden"
 - A few saffron threads
 - Salt to taste
 
-## Directions  
+## Directions
 
 1. Preheat the oven to 220°C (428°F), using both upper and lower heat.
 
