@@ -3,17 +3,19 @@ This layout was written from scratch, without looking at _default/rss.xml from
 the non-free theme lugo.
 This layout is released under the Unlicense (https://unlicense.org/).
 -->
+{{ $last_recipe_date := (index .Pages.ByDate.Reverse 0).Date }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>{{ .Site.Title }}</title>
     <link>{{ .Site.BaseURL }}</link>
-    <description>Recent content in {{ .Title }}</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>{{ .Site.Language.LanguageCode }}</language>
-    <lastBuildDate>{{ range first 1 .Pages.ByDate.Reverse }}{{ .Date.Format "Mon, 02 Jan 2006 00:00:00 +0000" }}{{ end }}</lastBuildDate>
     {{ with .OutputFormats.Get "rss" }}
         <atom:link rel="self" href="{{ .Permalink }}" type="{{ .MediaType.Type }}" />
     {{ end }}
+    <description>Recent content in {{ .Title }}</description>
+    <generator>Hugo {{ "<https://gohugo.io>" | transform.XMLEscape }}</generator>
+    <language>{{ .Site.Language.LanguageCode }}</language>
+    <copyright>Copyright 2021-{{ $last_recipe_date.Format "2006" }} Various authors - Unlicense {{ "<https://unlicense.org>" | transform.XMLEscape }}</copyright>
+    <pubDate>{{  $last_recipe_date.Format "Mon, 02 Jan 2006 00:00:00 +0000" }}</pubDate>
     {{ range .Pages.ByDate.Reverse }}
         <item>
             <title>{{ .Title }}</title>
