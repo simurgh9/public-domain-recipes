@@ -9,7 +9,7 @@ author: "Éric G."
 - 🍳 Cook time: 20 min
 - 🍽️ Serving : 3
 
-![Banana and oatmeal cookies](/pix/banana_oatmeal_cookies-00.webp "Banana and oatmeal cookies")
+![Banana and oatmeal cookies](/pix/banana-oatmeal-cookies.webp "Banana and oatmeal cookies")
 
 ## Ingredients
 

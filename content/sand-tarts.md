@@ -19,6 +19,6 @@ This is a simple sand tarts dutch recipe.
 
 ## Directions
 
-1. Work butter and part of the sugar together, then the remainder of the sugar and the eggs should be mixed in. Use enough flour to make very stiff. 
-2. Roll thin, cut out in small squares, wet top with two eggs beaten, sprinkle with sugar, cinnamon and chopped almonds. 
+1. Work butter and part of the sugar together, then the remainder of the sugar and the eggs should be mixed in. Use enough flour to make very stiff.
+2. Roll thin, cut out in small squares, wet top with two eggs beaten, sprinkle with sugar, cinnamon and chopped almonds.
 3. Bake in moderate oven, 10 minutes.

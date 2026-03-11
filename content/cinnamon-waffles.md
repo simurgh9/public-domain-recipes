@@ -20,8 +20,8 @@ This is a cinnamon waffle recipe. This is an old recipe which the “dutch” br
 
 ## Directions
 
-1. Cream the butter and sugar. 
-2. Beat in the eggs 1 at a time and add cinnamon. 
-3. Work in enough flour to make a soft dough. 
-4. Form into small balls. 
-5. Place several in a hot waffle iron, suitably spaced, press down top and bake. 
+1. Cream the butter and sugar.
+2. Beat in the eggs 1 at a time and add cinnamon.
+3. Work in enough flour to make a soft dough.
+4. Form into small balls.
+5. Place several in a hot waffle iron, suitably spaced, press down top and bake.

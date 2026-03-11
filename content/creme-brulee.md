@@ -1,5 +1,5 @@
 ---
-title: Crème brûlée 
+title: Crème brûlée
 tags: ['dessert', 'french']
 date: 2023-04-11
 author: "jan-kremer"
@@ -23,9 +23,9 @@ author: "jan-kremer"
 ## Directions
 
 1. Mix cream, milk and yolks.
-2. Add sugar, vanilla and lemon. 
+2. Add sugar, vanilla and lemon.
 3. Let rest for at least 30 min (optionally over night)
-4. Pour into 4-6 fireproof ramekins. 
+4. Pour into 4-6 fireproof ramekins.
 5. Pre-heat oven to 150°C and put the grease pan on the middle rail.
 6. Put the ramekins onto the grease pan and fill it with boiling water.
 7. Let the crème cook for 55 min.

@@ -27,7 +27,7 @@ Lithuanian Cold Borscht (Lithuanian - “Šaltibarščiai”, Polish - “Chłod
 
 ## Directions
 
-1. Wash 2-3 beets and cook in 2-3 litres of water (do not drain), peel. Grate on a medium or coarse grater. Squeeze a little lemon juice into the liquid in which the beets have been cooked, mix, then add salt, sugar and pepper to taste. Cool in the fridge. 
+1. Wash 2-3 beets and cook in 2-3 litres of water (do not drain), peel. Grate on a medium or coarse grater. Squeeze a little lemon juice into the liquid in which the beets have been cooked, mix, then add salt, sugar and pepper to taste. Cool in the fridge.
 Instead of boiled beets, you can grate pickled beets.
 2. Thinly slice the fresh cucumber and mix with chopped dill and parsley. You can also add chopped radishes if you like.
 3. Bake or boil the potatoes without peeling.
