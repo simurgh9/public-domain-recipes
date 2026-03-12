@@ -1,7 +1,7 @@
 ---
 title: "Loaded Mexican Rice"
 date: 2021-03-21
-tags: ['rice', 'mexican', 'american']
+tags: ['rice', 'southwest']
 author: mr-mip
 ---
 

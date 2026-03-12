@@ -1,6 +1,6 @@
 ---
 title: Irish Potato Casserole
-tags: ['irish', 'baking']
+tags: ['irish', 'traybake']
 date: 2022-09-10
 author: joel-maxuel
 ---

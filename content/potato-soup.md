@@ -1,6 +1,6 @@
 ---
 title: Potato Soup
-tags: ['potato', 'soup']
+tags: ['potato', 'milk', 'soup']
 date: 2022-05-19
 author: "Matthew"
 ---

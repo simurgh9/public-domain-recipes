@@ -1,7 +1,7 @@
 ---
 title: "Tarta de Santiago"
 date: 2022-07-03
-tags: ['spanish', 'cake', 'galician']
+tags: ['spanish', 'almond', 'cake', 'galician']
 author: laura-alvarez
 ---
 

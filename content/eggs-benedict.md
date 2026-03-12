@@ -1,6 +1,6 @@
 ---
 title: Eggs Benedict
-tags: ['breakfast', 'brunch', 'american', 'pork']
+tags: ['breakfast', 'brunch', 'classic', 'pork']
 date: 2024-07-22
 author: "Enzo Stever"
 ---

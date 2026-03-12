@@ -1,6 +1,6 @@
 ---
 title: Herbs pizza
-tags: ['cheesefare', 'italian', 'baking', 'pie']
+tags: ['cheesefare', 'italian', 'oven', 'pie']
 date: 2026-02-14
 author: "pestanzul"
 ---

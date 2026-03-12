@@ -1,7 +1,7 @@
 ---
 title: "Chicken Biscuit Potpie Recipe"
 date: 2021-03-11
-tags: ['chicken']
+tags: ['chicken', 'milk']
 author: front3ndninja
 ---
 
