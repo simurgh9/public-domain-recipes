@@ -1,7 +1,7 @@
 baseURL = 'https://publicdomainrecipes.com'
 locale = 'en-us'
 title = 'Public Domain Recipes'
-theme = ['sugo', 'lugo']
+theme = 'sugo'
 
 [params]
   indexarticles = 50
