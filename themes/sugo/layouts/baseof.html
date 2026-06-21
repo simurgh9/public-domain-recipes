@@ -11,7 +11,6 @@
   <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
   {{ $favicon := resources.Get "favicon.svg" }}
   <link rel="icon" href="{{ $favicon.RelPermalink }}" />
-  <meta name="description" content="{{ .Summary }}" />
   <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
 </head>
 <body>
