@@ -13,7 +13,7 @@ This layout is released under the Unlicense (https://unlicense.org/).
     {{ end }}
     <description>Recent content in {{ .Title }}</description>
     <generator>Hugo {{ "<https://gohugo.io>" | transform.XMLEscape }}</generator>
-    <language>{{ .Site.Language.LanguageCode }}</language>
+    <language>{{ .Site.Language.Locale }}</language>
     <copyright>Copyright 2021-{{ $last_recipe_date.Format "2006" }} Various authors - Unlicense {{ "<https://unlicense.org>" | transform.XMLEscape }}</copyright>
     <pubDate>{{  $last_recipe_date.Format "Mon, 02 Jan 2006 00:00:00 +0000" }}</pubDate>
     {{ range .Pages.ByDate.Reverse }}
