@@ -1,7 +1,7 @@
 baseURL = 'https://publicdomainrecipes.com'
 locale = 'en-us'
 title = 'Public Domain Recipes'
-theme = 'lugo'
+theme = ['sugo', 'lugo']
 
 [params]
   favicon = "/favicon.svg"
