@@ -1,0 +1,36 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" href="{{ (.Site.Home.OutputFormats.Get "rss").Permalink }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{{ .Title }}</title>
+  {{ $style := resources.Get "style.css" }}
+  <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
+  {{ $favicon := resources.Get "favicon.svg" }}
+  <link rel="icon" href="{{ $favicon.RelPermalink }}" />
+  <meta name="description" content="{{ .Summary }}" />
+  <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
+</head>
+<body>
+  <main>
+    <header><h1>{{ .Title }}</h1></header>
+    <article>
+      {{ block "article" . }}
+        {{ .Content }}
+      {{ end }}
+    </article>
+  </main>
+  <footer>
+    <a href="{{ .Site.Home.Permalink }}">{{ .Site.Home.Permalink }}</a>
+    <br />
+    <br />
+    <a href="{{ (.Site.Home.OutputFormats.Get "rss").Permalink }}">
+      {{ $rss := resources.Get "rss.svg" }}
+      <img src="{{ $rss.RelPermalink }}" style="max-height:1.5em;" alt="RSS Feed" title="Subscribe via RSS for updates.">
+    </a>
+  </footer>
+</body>
+</html>
