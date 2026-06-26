@@ -1,5 +1,5 @@
 baseURL = 'https://publicdomainrecipes.com'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Public Domain Recipes'
 theme = 'lugo'
 
@@ -13,4 +13,3 @@ theme = 'lugo'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-theme = 'lugo'

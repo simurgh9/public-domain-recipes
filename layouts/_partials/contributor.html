@@ -1,5 +1,5 @@
 {{ with .Params.author }}
-{{ $author := index $.Site.Data.authors . }}
+{{ $author := index hugo.Data.authors . }}
 <h2>Contributor(s)</h2>
 <ul>
 <li>
