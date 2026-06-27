@@ -37,18 +37,20 @@ a {
 	margin: .1em .25em ;
 }
 
+#nextprev {
+  margin-top: 2em;
+  margin-bottom: 1em;
+  display: flex;
+}
+
 #prevart {
-	float: left ;
 	text-align: left ;
+  flex: 1;
 }
 
 #nextart {
-	float: right ;
 	text-align: right ;
-}
-
-#nextart,#prevart {
-	max-width: 33% ;
+  flex: 1;
 }
 
 a:visited {
@@ -186,7 +188,7 @@ button#random {
 	cursor: pointer;
 	transition: color 180ms ease-in-out;
 }
-  
+
 button#random:hover {
 	color: #eee;
 }

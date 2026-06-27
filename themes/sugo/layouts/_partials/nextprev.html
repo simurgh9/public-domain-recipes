@@ -1,8 +1,12 @@
 <div id="nextprev">
+  <div id="prevart">
   {{ with .Prev }}
-  <a href="{{ .Permalink }}"><div id="prevart">Previous:<br>{{ .Title }}</div></a>
+  <a href="{{ .Permalink }}">Previous:<br>{{ .Title }}</a>
   {{ end }}
+  </div>
+  <div id="nextart">
   {{ with .Next }}
-  <a href="{{ .Permalink }}"><div id="nextart">Next:<br>{{ .Title }}</div></a>
+  <a href="{{ .Permalink }}">Next:<br>{{ .Title }}</a>
   {{ end }}
+  </div>
 </div>
