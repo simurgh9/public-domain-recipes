@@ -9,9 +9,9 @@
       {{ else }}
         {{ $author.name }}
       {{- end -}}
-      <ul>
+      <ul id="donation">
         {{- if $author.xmr }}
-          <li><img alt="XMR Logo" src="/pix/xmr.svg">Monero: <code style="word-break:break-all">{{ $author.xmr }}</code></li>
+          <li><img alt="XMR Logo" src="/pix/xmr.svg">Monero: <code>{{ $author.xmr }}</code></li>
         {{- end -}}
         {{- if $author.btc }}
           <li><img src="/pix/btc.svg" alt="BTC Logo">Bitcoin: <code>{{ $author.btc }}</code></li>

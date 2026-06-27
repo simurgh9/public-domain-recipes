@@ -94,9 +94,14 @@ img {
 	display: block ;
 }
 
-code {
-	overflow-wrap: break-word ;
-	color: lime ;
+#donation {
+  img {
+    margin-right: .5rem ;
+  }
+  code {
+  	word-break: break-all ;
+  	color: lime ;
+  }
 }
 
 .taglist {
