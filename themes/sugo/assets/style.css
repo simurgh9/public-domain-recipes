@@ -80,6 +80,13 @@ footer {
 	padding: 1em ;
 }
 
+#feed {
+  margin: 1em auto ;
+  img {
+    max-height: 1.5em ;
+  }
+}
+
 img {
 	max-width: 90% ;
 	max-height: 400px ;
