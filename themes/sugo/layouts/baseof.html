@@ -7,8 +7,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <title>{{ .Title }}</title>
-  {{ $style := resources.Get "style.css" }}
-  <link rel="stylesheet" type="text/css" href="{{ $style.RelPermalink }}" />
+  {{ $general_style := resources.Get "style.css" }}
+  {{ $tag_style := resources.Get "tags.css" }}
+  <link rel="stylesheet" type="text/css" href="{{ $general_style.RelPermalink }}" />
+  {{ if .GetTerms "tags"  }}
+    <link rel="stylesheet" type="text/css" href="{{ $tag_style.RelPermalink }}" />
+  {{ end }}
   {{ $favicon := resources.Get "favicon.svg" }}
   <link rel="icon" href="{{ $favicon.RelPermalink }}" />
   <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
