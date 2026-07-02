@@ -1,0 +1,8 @@
+{{ if .GetTerms "tags" }}
+<h2>Related</h2>
+<p class="taglist">
+{{ range sort (.GetTerms "tags") "LinkTitle" -}}
+  <span><a id="tag_{{ .Page.Title | anchorize }}" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></span>
+{{- end }}
+</p>
+{{ end }}

@@ -1,11 +1,9 @@
 baseURL = 'https://publicdomainrecipes.com'
 locale = 'en-us'
 title = 'Public Domain Recipes'
-theme = 'lugo'
+theme = 'sugo'
 
 [params]
-  favicon = "/favicon.svg"
-  stylesheet = "/style.css"
   indexarticles = 50
   taglist = true
 
