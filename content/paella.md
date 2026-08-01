@@ -7,13 +7,13 @@ author: "daviduhden"
 
 ![Valencian Paella](/pix/paella.webp)
 
-**Valencian Paella** is one of the most iconic dishes of Spanish cuisine, originating from the Valencia region. It is characterized by a combination of rice, meats, and vegetables, cooked in a paella pan over an open fire.  
+**Valencian Paella** is one of the most iconic dishes of Spanish cuisine, originating from the Valencia region. It is characterized by a combination of rice, meats, and vegetables, cooked in a paella pan over an open fire.
 
-- ⏲️ Prep time: 20 min  
-- 🍳 Cook time: 60 min  
-- 🍽️ Servings: 4  
+- ⏲️ Prep time: 20 min
+- 🍳 Cook time: 60 min
+- 🍽️ Servings: 4
 
-## Ingredients  
+## Ingredients
 
 - 500 g of bomba rice
 - 1 free-range chicken, cut into pieces
@@ -29,7 +29,7 @@ author: "daviduhden"
 - (Optional) 6 artichokes, chopped
 - (Optional) 500 g of cleaned snails
 
-## Directions  
+## Directions
 
 1. Heat the olive oil in a paella pan over medium-high heat. Add the chicken and rabbit pieces and fry them until golden brown on all sides.
 

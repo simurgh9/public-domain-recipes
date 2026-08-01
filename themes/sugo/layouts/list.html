@@ -1,0 +1,7 @@
+{{ define "article" }}
+<ul>
+{{ range .Pages }}
+  <li>{{ .Date.Format "2006 Jan 02" }} - <a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+{{ end }}

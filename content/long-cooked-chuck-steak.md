@@ -20,7 +20,7 @@ author: "Emilio Müller"
 
 ## Directions
 
-1. Add a little of the olive oil to the long cooker, put in the meat, and set it to high. 
+1. Add a little of the olive oil to the long cooker, put in the meat, and set it to high.
 2. Chop the onion and add it.
 3. Cut the cauliflower to sizes you prefer and add.
 4. Chop or slice 1/3 of the fennel and add.

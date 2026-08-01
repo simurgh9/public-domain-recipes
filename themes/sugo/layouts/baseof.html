@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} RSS" href="{{ (.Site.Home.OutputFormats.Get "rss").Permalink }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{{ .Title }}</title>
+  {{ $general_style := resources.Get "style.css" }}
+  {{ $tag_style := resources.Get "tags.css" }}
+  <link rel="stylesheet" type="text/css" href="{{ $general_style.RelPermalink }}" />
+  {{ if .GetTerms "tags"  }}
+    <link rel="stylesheet" type="text/css" href="{{ $tag_style.RelPermalink }}" />
+  {{ end }}
+  {{ $favicon := resources.Get "favicon.svg" }}
+  <link rel="icon" href="{{ $favicon.RelPermalink }}" />
+  <meta name="keywords" content="{{ with .Params.tags }}{{ delimit . "," }}{{ end }}">
+</head>
+<body>
+  <main>
+    <header><h1>{{ .Title }}</h1></header>
+    <article>
+      {{ block "article" . }}
+        {{ .Content }}
+      {{ end }}
+    </article>
+  </main>
+  <footer>
+    <div>
+      <a href="{{ .Site.Home.Permalink }}">{{ .Site.Home.Permalink }}</a>
+    </div>
+    <div id="feed">
+      {{ $rss := resources.Get "rss.svg" }}
+      <a href="{{ (.Site.Home.OutputFormats.Get "rss").Permalink }}">
+        <img src="{{ $rss.RelPermalink }}" alt="RSS Feed" title="Subscribe via RSS for updates.">
+      </a>
+    </div>
+  </footer>
+</body>
+</html>

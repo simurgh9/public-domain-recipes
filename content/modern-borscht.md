@@ -53,7 +53,7 @@ This is a modern take on classic Eastern European Borscht. Meat is optional, but
 ## Cooking Directions (90 min)
 
 1. Use high heat and get the 5qt pot hot. Flick a few drops of water onto the pot and when they start "dancing" it is hot enough.
-2. Coat the bottom of the pot with a thin layer of olive oil and let it heat up for about 30 seconds to 1 minute. 
+2. Coat the bottom of the pot with a thin layer of olive oil and let it heat up for about 30 seconds to 1 minute.
 3. Sear the beef on all sides until all cubes are browned. Salt and pepper the beef to taste. It is OK if the meat sticks to the bottom of the pot. Place a strainer in large bowl 3.
 4. Once browned, remove the beef from the pot. Place into strainer and let the juices drain.
 5. Add the carrot/onion/celery/garlic mixture from large bowl 1 to the hot pot.
@@ -61,5 +61,5 @@ This is a modern take on classic Eastern European Borscht. Meat is optional, but
 7. Add the strained meat, the beets from large bowl 2, the canned tomatoes, the beef stock, the cumin, the bay leaves, and the coriander to the pot. Stir until well blended.
 8. Bring mixture to a boil on high heat. When a boil is achieved, reduce heat to a simmer and simmer for 60 minutes with the lid on. *REMINDER* - after 45 minutes, cube the potatoes.
 9. After 60 minutes of simmering, add the cubed potatoes and the dill (to taste) to the mixture. Stir until well blended. Cover, and simmer for 15 minutes. *REMINDER* - during this 15 minute simmer, dice the 1/2 head of cabbage.
-10. After 15 minutes, or until potatoes are soft, add the cabbage to the pot. Simmer for 2 minutes uncovered to heat the cabbage. 
+10. After 15 minutes, or until potatoes are soft, add the cabbage to the pot. Simmer for 2 minutes uncovered to heat the cabbage.
 11. Serve. The cabbage should be hot, yet still crunchy. It will retain this crunchiness through refrigeration and re-heating due to the short heat cycle. 1-2 spoonfulls of sour cream is recommended per bowl for additional flavor.
